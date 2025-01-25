@@ -23,6 +23,13 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming (Step 4)
+ - [ ] Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app
+ -> Instagram: very interactive, very intuitive to use
+ -> Whatsapp: very easy to use, simple well-designed interface
+ -> Discord: simple interface, UI is not too crowded, very easy to use
+
+- [ ] An app that I would like to build
+ -> I would like to build an app that would allow car owners to order mechanic services to their doors, offices or even their location on the road if their car breaks down. The app would allow people to register as mechanics and/or car owners. Each mechanic will be rated by customers and vice versa. the app will support messaging among other features
 
 ## Notes
 
